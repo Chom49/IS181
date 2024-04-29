@@ -1,0 +1,62 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("sunrise-dawn-nature-3162704.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  text-align: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+tr {
+  line-height: 30px;
+}
+.hero {
+  margin-top: 100px;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+}
+.home {
+  display: flex;
+}
+li {
+  display: inline-block;
+  margin-left: 40px;
+  justify-content: space-between;
+}
+.logo {
+  width: 50px;
+  margin-right: 400px;
+  margin-left: 35px;
+  border-radius: 50px;
+  margin-top: -3px;
+}
+a:hover {
+  background-color: rgb(204, 196, 164);
+  color: black;
+  border-radius: 90px;
+  cursor: pointer;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.space {
+  margin-top: -90px;
+}
+form {
+  margin-top: 100px;
+}
+.field {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40px;
+}
